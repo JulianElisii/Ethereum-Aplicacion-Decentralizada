@@ -1,0 +1,9 @@
+{
+    "server": {
+      "baseDir": [
+        "./CLIENT"
+       
+      ]
+    },
+    "port": "3001"
+  }

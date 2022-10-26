@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@truffle/contract": "^4.6.2",
+    "bootstrap": "^5.2.2",
+    "lite-server": "^2.6.1"
+  },
+  "name": "first_dapp",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianElisii/Ethereum-Aplicacion-Decentralizada.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianElisii/Ethereum-Aplicacion-Decentralizada/issues"
+  },
+  "homepage": "https://github.com/JulianElisii/Ethereum-Aplicacion-Decentralizada#readme",
+  "description": ""
+}
